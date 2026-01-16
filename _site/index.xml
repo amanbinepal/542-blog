@@ -6,15 +6,15 @@
       version="2.0">
 <channel>
 <title>The future of Autonomous Vehicle Technology in the age of Machine Learning</title>
-<link>https://your-website-url.example.com/</link>
-<atom:link href="https://your-website-url.example.com/index.xml" rel="self" type="application/rss+xml"/>
+<link>https://3d75a03f-8582-4c3c-8ac6-ac76c683afc6.netlify.app/</link>
+<atom:link href="https://3d75a03f-8582-4c3c-8ac6-ac76c683afc6.netlify.app/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog built with Quarto</description>
 <generator>quarto-1.8.24</generator>
 <lastBuildDate>Thu, 15 Jan 2026 08:00:00 GMT</lastBuildDate>
 <item>
   <title>The future of Autonomous Vehicle Technology in the age of Deep Learning</title>
   <dc:creator>Amanpreet Binepal</dc:creator>
-  <link>https://your-website-url.example.com/posts/autonomous-vehicles/</link>
+  <link>https://3d75a03f-8582-4c3c-8ac6-ac76c683afc6.netlify.app/posts/autonomous-vehicles/</link>
   <description><![CDATA[ 
 
 
@@ -42,7 +42,7 @@
 </ul>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://your-website-url.example.com/posts/autonomous-vehicles/neural_net.png" class="img-fluid figure-img"></p>
+<p><img src="https://3d75a03f-8582-4c3c-8ac6-ac76c683afc6.netlify.app/posts/autonomous-vehicles/neural_net.png" class="img-fluid figure-img"></p>
 <figcaption>Neural Network Diagram</figcaption>
 </figure>
 </div>
@@ -73,9 +73,9 @@
 
  ]]></description>
   <category>analysis</category>
-  <guid>https://your-website-url.example.com/posts/autonomous-vehicles/</guid>
+  <guid>https://3d75a03f-8582-4c3c-8ac6-ac76c683afc6.netlify.app/posts/autonomous-vehicles/</guid>
   <pubDate>Thu, 15 Jan 2026 08:00:00 GMT</pubDate>
-  <media:content url="https://your-website-url.example.com/posts/autonomous-vehicles/image.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://3d75a03f-8582-4c3c-8ac6-ac76c683afc6.netlify.app/posts/autonomous-vehicles/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
